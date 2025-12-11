@@ -133,6 +133,20 @@ Git, GitHub, Jupyter, Postman, VS Code, Notion
 🐦 X (Twitter): https://x.com/Analytics_74  
 📧 Email: contact@analyticscareerconnect.in  
 
+# 👨‍💼 Hiring & Career Opportunities
+
+### **📩 Want to join our team?**  
+**Send your resume to — hr@analyticscareerconnect.com**
+
+We welcome:
+- EdTech collaborations  
+- IT project partnerships  
+- Recruitment & staffing requests  
+- Student internship tie-ups  
+- Open-source contributors  
+
+Together, let’s build India’s future workforce and solve the unemployment problem — one learner at a time. 🚀
+
 ---
 
 # 🤝 Collaborations & Opportunities
